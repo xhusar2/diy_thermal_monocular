@@ -1,0 +1,20 @@
+# ESP-IDF build outputs
+source_code/build/
+
+# Optional: ignore entire original reference (uncomment if source_code/ is the only source)
+# resources/original_source_code/
+
+# ESP-IDF generated
+source_code/sdkconfig.old
+
+# Python / env
+__pycache__/
+*.pyc
+.env
+.venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
