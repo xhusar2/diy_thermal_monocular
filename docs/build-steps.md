@@ -2,6 +2,8 @@
 
 ## Prerequisites
 
+![All parts for assembly](resources/build_photos/20260322_103810.jpeg)
+
 - All parts from the [BOM](BOM.md)
 - 3D printed body parts
 - Soldering iron with heated insert tip
@@ -20,5 +22,7 @@
 
 ### Step 2 - Wiring
 
--- TODO
+
+
+
 
