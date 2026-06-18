@@ -4,8 +4,8 @@
 
 <table>
   <tr>
-    <td><img src="resources/build_photos/finished_1.jpg" alt="Finished thermal monocular" width="400" /></td>
-    <td><img src="resources/build_photos/result.png" alt="Thermal image result" width="400" /></td>
+    <td><img src="resources/build_photos/finished_1.jpg" alt="Finished thermal monocular" height="400" /></td>
+    <td><img src="resources/build_photos/result.png" alt="Thermal image result" height="400" /></td>
   </tr>
 </table>
 
