@@ -6,7 +6,7 @@
 
 - **Thermal camera** (256x192 9MM CVBS) - ~€162.58 - [AliExpress Link](https://www.aliexpress.com/item/1005007938410808.html?spm=a2g0o.order_list.order_list_main.194.68141802FBvwr7)
 - **ESP32 boards** (5PCS) - ~€2.69 - [AliExpress Link](https://www.aliexpress.com/item/1005007663345442.html?spm=a2g0o.order_list.order_list_main.209.68141802FBvwr7)
-- **Eye piece** (18x) - ~€47.79 - [AliExpress Link](https://www.aliexpress.com/item/1005009392023314.html?spm=a2g0o.order_list.order_list_main.214.68141802FBvwr7)
+- **Eye piece** (18x) - ~€80 - [AliExpress Link](https://www.aliexpress.com/item/1005008682525341.html?spm=a2g0o.order_list.order_list_main.17.2b9c1802zDnh09)
 - **0.39inch OLED display** (with AV 3Color) - ~€29.78 - [AliExpress Link](https://www.aliexpress.com/item/1005008087046449.html?spm=a2g0o.order_list.order_list_main.229.68141802FBvwr7)
 
 ## Electronics

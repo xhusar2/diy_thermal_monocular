@@ -35,7 +35,8 @@ Assembly has two parallel workstreams that come together at final body installat
 
 ### 2.1 Board subassembly
 
-Remove unnecessary cables from the OLED display board accordging to the image - <TODO ADD IMAGE> We need only - <TODO ADD>
+Remove unnecessary cables from the OLED display board accordging to the image
+![Remove unnecessary cables](resources/build_photos/build_remove_cables.jpg)
 
 Solder the ESP32-C3 Super Mini to the potentiometer board and the OLED display board according to the wiring diagram. Keep cable tails short on these connections.
 
@@ -46,8 +47,7 @@ Solder the DC power inlet and power button as a separate subassembly. **Leave su
 ### 2.3 Buck converter wiring preparation
 
 Prepare the buck converter by soldering the capacitors on the VIN/VOUT side.
-
-> **TODO:** Verify wiring harness cables (10-pin and 5-pin) are on the BOM — add if missing.
+![Solder buck converter](resources/build_photos/build_buck.jpg)
 
 ### 2.4 Ground cable preparation
 
@@ -61,6 +61,7 @@ Cut and prepare grey ground cables:
 ### 2.5 5V cable preparation
 
 Cut 5V power cables to **~4 cm** length.
+![Prepare cables](resources/build_photos/build_cables_5v.jpg)
 
 ---
 
@@ -69,6 +70,7 @@ Cut 5V power cables to **~4 cm** length.
 ### 3.1 Buck converter ground
 
 Solder ground cables to the buck converter output ground pad and to the ESP32 ground pin.
+![Solder cables](resources/build_photos/build_esp_to_buck.jpg)
 
 
 ### 3.2 Ground bus
