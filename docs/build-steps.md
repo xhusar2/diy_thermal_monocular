@@ -160,5 +160,4 @@ See [compiled_binaries/README.md](../compiled_binaries/README.md) for flashing v
 
 ## Finished Product
 
-
-<TODO ADD PHOTOS>
+![Finished thermal monocular](../resources/build_photos/finished_2.jpg)
