@@ -2,7 +2,12 @@
 
 > Build your own handheld thermal monocular for ~€400. Open-source firmware, 3D-printed body, RIS/Picatinny rail compatible.
 
-![Finished thermal monocular front view](resources/build_photos/finished_1.jpg)
+<table>
+  <tr>
+    <td><img src="resources/build_photos/finished_1.jpg" alt="Finished thermal monocular" /></td>
+    <td><img src="resources/build_photos/result.png" alt="Thermal image result" /></td>
+  </tr>
+</table>
 
 ---
 
