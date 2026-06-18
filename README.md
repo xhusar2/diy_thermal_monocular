@@ -38,7 +38,6 @@ A fully functional **DIY thermal imaging monocular** built around a 256×192 the
 | Thermal sensor | 256×192, 9mm lens, CVBS |
 | MCU | ESP32-C3 Super Mini |
 | Display | 0.39" OLED (AV input) |
-| Eyepiece | 18× magnification |
 | Power | 5V via 5.5×2.1mm DC jack |
 | Rail mount | Picatinny / RIS compatible |
 | Firmware | ESP-IDF v5.5.3, open source |
