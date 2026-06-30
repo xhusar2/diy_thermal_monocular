@@ -103,4 +103,9 @@ Licensed under the terms in [LICENSE](LICENSE).
 
 ---
 
+## Credits
+
+This project was inspired by [Jacob-OTW's BCOTI](https://github.com/Jacob-OTW/BCOTI/).
+Many thanks for the great work that sparked this idea.
+
 *Keywords: DIY thermal monocular, ESP32 thermal camera, open source thermal imaging, 3D printed thermal monocular, budget thermal optics, night vision DIY, OLED thermal viewer, ESP32-C3 thermal, Picatinny thermal scope*
